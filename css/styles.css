@@ -1,9 +1,0 @@
-.gallery {
-    display: flex;
-    margin: 0 auto;
-    flex-wrap: wrap;
-    max-width: 1128px;
-    column-gap: 24px;
-    row-gap: 48px;
-    list-style-type: none;
-}
