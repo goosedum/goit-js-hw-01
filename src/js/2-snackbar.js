@@ -1,5 +1,5 @@
 // Описаний у документації
-import izToast from 'izitoast';
+import iziToast from 'izitoast';
 // Додатковий імпорт стилів
 import 'izitoast/dist/css/iziToast.min.css';
 const refs = {
